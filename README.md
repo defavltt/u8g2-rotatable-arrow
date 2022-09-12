@@ -19,4 +19,9 @@
  - Values under 0 are supressed
 
 ![](arrow.png)
+
+_arrow example_
+
 ![](arrow_trig.png)
+
+_arrow construction_
