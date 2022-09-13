@@ -16,7 +16,7 @@
    
    `outer_radius`
    
- - Values under 0 are supressed
+ - Coords under 0 are supressed
 
 ![](arrow.png)
 
